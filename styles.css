@@ -26,6 +26,12 @@ input{
     height: 20px;
     margin-bottom: 12px;
 }
+#subtext{
+    font-size: 13px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 20px;
+    text-align: center;
+}
 
 
 button{
